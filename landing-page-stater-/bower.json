@@ -1,0 +1,15 @@
+{
+    "name": "starter-app",
+    "description": "app",
+    "main": "",
+    "authors": [
+        "kim joseph <kimwrjoseph@gmail.com>"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}
